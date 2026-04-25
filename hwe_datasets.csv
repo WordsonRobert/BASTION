@@ -1,0 +1,28 @@
+dataset_id,dataset_name,species,locus,reference,stressor,population_id,generation_or_year,N_AA,N_Aa,N_aa,data_type,notes
+1,HbC,Homo sapiens,HbC,Modiano 2001 Nature 414:305,Balancing selection,Burkina_Faso_aggregate,0,324,88,6,cross_sectional,Direct observed counts Table 2. n=418.
+2,Mc1r,Chaetodipus intermedius,Mc1r,Nachman 2003 PNAS 100:5268,Directional selection,Lava_rock,0,9,5,30,cross_sectional,Direct observed counts Table 2. Dark substrate population.
+2,Mc1r,Chaetodipus intermedius,Mc1r,Nachman 2003 PNAS 100:5268,Directional selection,Light_rock,0,46,12,3,cross_sectional,Direct observed counts Table 2. Light substrate population.
+3,Drosophila_Adh,Drosophila melanogaster,Adh,Cavener & Clegg 1981 Evolution 35:1,Ethanol directional selection,Cage_E1,0,18,22,10,temporal,FLAGGED: back-calculated from published allele frequencies assuming HWE. F posterior prior-dominated. See datasets.md.
+3,Drosophila_Adh,Drosophila melanogaster,Adh,Cavener & Clegg 1981 Evolution 35:1,Ethanol directional selection,Cage_E1,4,16,26,8,temporal,FLAGGED: back-calculated
+3,Drosophila_Adh,Drosophila melanogaster,Adh,Cavener & Clegg 1981 Evolution 35:1,Ethanol directional selection,Cage_E1,8,13,29,8,temporal,FLAGGED: back-calculated
+3,Drosophila_Adh,Drosophila melanogaster,Adh,Cavener & Clegg 1981 Evolution 35:1,Ethanol directional selection,Cage_E1,16,10,31,9,temporal,FLAGGED: back-calculated
+3,Drosophila_Adh,Drosophila melanogaster,Adh,Cavener & Clegg 1981 Evolution 35:1,Ethanol directional selection,Cage_E1,24,8,32,10,temporal,FLAGGED: back-calculated
+3,Drosophila_Adh,Drosophila melanogaster,Adh,Cavener & Clegg 1981 Evolution 35:1,Ethanol directional selection,Cage_E1,32,5,32,13,temporal,FLAGGED: back-calculated
+3,Drosophila_Adh,Drosophila melanogaster,Adh,Cavener & Clegg 1981 Evolution 35:1,Ethanol directional selection,Cage_E1,40,4,30,16,temporal,FLAGGED: back-calculated
+3,Drosophila_Adh,Drosophila melanogaster,Adh,Cavener & Clegg 1981 Evolution 35:1,Ethanol directional selection,Cage_E1,48,3,28,19,temporal,FLAGGED: back-calculated
+3,Drosophila_Adh,Drosophila melanogaster,Adh,Cavener & Clegg 1981 Evolution 35:1,Ethanol directional selection,Cage_E1,57,2,22,26,temporal,FLAGGED: back-calculated
+4,Gadus_SypI,Gadus morhua,Syp I,Fevolden & Pogson 1997 J Fish Biol 50:748,Population structure,Norwegian_spring_spawning,0,312,201,48,cross_sectional,Back-calculated from n and H_obs. Use with caution.
+5,Zoarces_EstIII,Zoarces viviparus,Est III,Christiansen 1973 Genetics 73:291,Zygotic selection,Denmark_pooled,0,201,105,42,cross_sectional,Direct observed counts pooled across years.
+6,CCR5_delta32,Homo sapiens,CCR5-delta32,Martinson 1997 Nat Genet 16:100,Population structure + drift,Africa_aggregate,0,820,12,0,cross_sectional,Direct counts. Delta32 allele absent in African populations.
+6,CCR5_delta32,Homo sapiens,CCR5-delta32,Martinson 1997 Nat Genet 16:100,Population structure + drift,Middle_East,0,188,22,1,cross_sectional,Direct counts.
+6,CCR5_delta32,Homo sapiens,CCR5-delta32,Martinson 1997 Nat Genet 16:100,Population structure + drift,Europe_South,0,290,55,4,cross_sectional,Direct counts.
+6,CCR5_delta32,Homo sapiens,CCR5-delta32,Martinson 1997 Nat Genet 16:100,Population structure + drift,Europe_North,0,178,54,10,cross_sectional,Direct counts. Highest delta32 frequency.
+7,Panaxia_medionigra,Panaxia dominula,medionigra,Fisher & Ford 1947 Heredity 1:143,Complex selection + drift,Cothill_marsh,1928,164,4,0,temporal,Direct counts from Table 1. Codominant locus. Proposed replacement for Dataset 3.
+7,Panaxia_medionigra,Panaxia dominula,medionigra,Fisher & Ford 1947 Heredity 1:143,Complex selection + drift,Cothill_marsh,1939,184,37,2,temporal,Direct counts from Table 1.
+7,Panaxia_medionigra,Panaxia dominula,medionigra,Fisher & Ford 1947 Heredity 1:143,Complex selection + drift,Cothill_marsh,1940,92,24,1,temporal,Direct counts from Table 1.
+7,Panaxia_medionigra,Panaxia dominula,medionigra,Fisher & Ford 1947 Heredity 1:143,Complex selection + drift,Cothill_marsh,1941,400,59,2,temporal,Direct counts from Table 1.
+7,Panaxia_medionigra,Panaxia dominula,medionigra,Fisher & Ford 1947 Heredity 1:143,Complex selection + drift,Cothill_marsh,1942,183,22,0,temporal,Direct counts from Table 1.
+7,Panaxia_medionigra,Panaxia dominula,medionigra,Fisher & Ford 1947 Heredity 1:143,Complex selection + drift,Cothill_marsh,1943,239,30,0,temporal,Direct counts from Table 1.
+7,Panaxia_medionigra,Panaxia dominula,medionigra,Fisher & Ford 1947 Heredity 1:143,Complex selection + drift,Cothill_marsh,1944,452,43,1,temporal,Direct counts from Table 1.
+7,Panaxia_medionigra,Panaxia dominula,medionigra,Fisher & Ford 1947 Heredity 1:143,Complex selection + drift,Cothill_marsh,1945,326,44,2,temporal,Direct counts from Table 1.
+7,Panaxia_medionigra,Panaxia dominula,medionigra,Fisher & Ford 1947 Heredity 1:143,Complex selection + drift,Cothill_marsh,1946,905,78,3,temporal,Direct counts from Table 1.
